@@ -17,3 +17,21 @@ Your quiz should stop as soon as the time limit has exceeded. That is, you shoul
 Users should be asked to press enter (or some other key) before the timer starts, and then the questions should be printed out to the screen one at a time until the user provides an answer. Regardless of whether the answer is correct or wrong the next question should be asked.
 
 At the end of the quiz the program should output the total number of questions correct and how many questions there were in total. Questions given invalid answers are considered incorrect.
+
+# HOW TO PLAY GAME
+
+1. You must have GO installed on your local machine.
+
+2. Create a folder, and clone the files into it.
+
+3. Then open your terminal, and run the command below:
+
+      # go run main.go
+      
+4. The above command should automatically start the the quiz....
+
+5. Have fun!
+
+# BONUS
+
+- You can as well edit the "problem.csv" file, add couple of question and use it as a daily mathematics drill test for kids.
