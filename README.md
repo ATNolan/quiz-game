@@ -1,7 +1,8 @@
-# quiz-game
+# A Simple Timed Quiz Game
+
 A Simple Timed Quiz Game Written With Golang
 
-HOW IT WORKS!
+# HOW IT WORKS!
 
 This program reads in a quiz provided via a CSV file and will then give the quiz to a user keeping track of how many questions they get right and how many they get incorrect. Regardless of whether the answer is correct or wrong the next question should be asked immediately afterwards.
 
