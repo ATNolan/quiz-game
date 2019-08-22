@@ -34,4 +34,4 @@ At the end of the quiz the program should output the total number of questions c
 
 # BONUS
 
-- You can as well edit the "problem.csv" file, add couple of question and use it as a daily mathematics drill test for kids.
+- You can as well edit the "problem.csv" file, add couple of questions and use it as a daily mathematics drill test for kids.
